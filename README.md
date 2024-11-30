@@ -6,7 +6,7 @@
 |---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | [learning-server-springboot](https://github.com/percyku/learning-server-springboot)               | Using Spring Boot 3 ,Spring Security ,Hibernate ,MySQL ,JUnit5 <br/>to make RESTful API   |
 | [learning-server-springboot-oauth2](https://github.com/percyku/learning-server-springboot-oauth2) | Using Spring Boot 3 ,Spring Security ,Hibernate ,MySQL ,OAuth2.0 <br/>to make RESTful API |
-| [learning-web-app](https://github.com/percyku/learning-server-springboot-oauth2)                  | Using Spring Boot 3 ,Spring Security ,Hibernate ,MySQL ,Thymeleaf <br/>to make Full Stack |
+| [learning-web-app](https://github.com/percyku/learning-web-app)                                   | Using Spring Boot 3 ,Spring Security ,Hibernate ,MySQL ,Thymeleaf <br/>to make Full Stack |
 | [springboot-mall-practice](https://github.com/percyku/springboot-mall-practice)                   | Using Spring Boot 3 ,MySQL ,H2 Database ,JUnit5 <br/>to make RESTful API                  |
 
 
