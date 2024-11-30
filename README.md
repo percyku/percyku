@@ -10,7 +10,7 @@
 | [springboot-mall-practice]()           | Using Spring Boot 3 ,MySQL ,H2 Database ,JUnit5 <br/>to make RESTful API                       |
 
 
-# Previous Projects
+# Previous Projects(during my study in graduate school)
 
 | Prjoect               | description                                                   | Applied                                                                                                                                  | 
 |-----------------------|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
