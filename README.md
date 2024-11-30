@@ -2,12 +2,12 @@
 
 # Side Projects
 
-| Prjoect                                | description                                                                 |
-|----------------------------------------|-----------------------------------------------------------------------------|
-| [learning-server-springboot]()         | Spring Boot 3 ,Spring Security ,JPA/Hibernate ,JUnit5 to make RESTful API   |
-| [learning-server-springboot-oauth2]()  | Spring Boot 3 ,Spring Security ,JPA/Hibernate ,OAuth2.0 to make RESTful API |
-| [learning-web-app]()                   | Spring Boot 3 ,Spring Security ,JPA/Hibernate ,Thymeleaf to make Full Stack |
-| [springboot-mall-practice]()           | Spring Boot 3 ,H2 ,JUnit5 to RESTful API                                    |
+| Prjoect                                | description                                                                               |
+|----------------------------------------|-------------------------------------------------------------------------------------------|
+| [learning-server-springboot]()         | Using Spring Boot 3 ,Spring Security ,Hibernate ,MySQL ,JUnit5 <br/>to make RESTful API   |
+| [learning-server-springboot-oauth2]()  | Using Spring Boot 3 ,Spring Security ,Hibernate ,MySQL ,OAuth2.0 <br/>to make RESTful API |
+| [learning-web-app]()                   | Using Spring Boot 3 ,Spring Security ,Hibernate ,MySQL ,Thymeleaf <br/>to make Full Stack |
+| [springboot-mall-practice]()           | Using Spring Boot 3 ,MySQL ,H2 Database ,JUnit5 <br/>to make RESTful API                       |
 
 
 # Previous Projects
