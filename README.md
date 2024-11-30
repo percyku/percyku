@@ -2,22 +2,23 @@
 
 # Side Projects
 
-| Prjoect                                | Programming Languages & Technologies                                                   | description                                       |
-|----------------------------------------|----------------------------------------------------------------------------------------|---------------------------------------------------|
-| [learning-server-springboot]()         | Java , SQL <br/>Spring Boot 3, Spring Security ,JUnit5 ,JPA/Hibernate ,MySQL           | This program is for RESTful API & JUnit5 practice |
-| [learning-server-springboot-oauth2]()  | Java , SQL <br/>Spring Boot 3, Spring Security ,OAuth2 ,JPA/Hibernate ,MySQL           | This program is for RESTful API & OAuth2 practice |
-| [learning-web-app]()                   | Java , SQL <br/>Spring Boot 3, Spring Security ,OAuth2 ,JPA/Hibernate ,MySQL ,Thymeleaf | Full Stack for SpringBoot with Thymeleaf          |
-| [springboot-mall-practice]()           | Java , SQL <br/>Spring Boot 3, JUnit5 ,MySQL ,H2 Database                              | This program is for RESTful API practice          |
+| Prjoect                                | description                                                                 |
+|----------------------------------------|-----------------------------------------------------------------------------|
+| [learning-server-springboot]()         | Spring Boot 3 ,Spring Security ,JPA/Hibernate ,JUnit5 to make RESTful API   |
+| [learning-server-springboot-oauth2]()  | Spring Boot 3 ,Spring Security ,JPA/Hibernate ,OAuth2.0 to make RESTful API |
+| [learning-web-app]()                   | Spring Boot 3 ,Spring Security ,JPA/Hibernate ,Thymeleaf to make Full Stack |
+| [springboot-mall-practice]()           | Spring Boot 3 ,H2 ,JUnit5 to RESTful API                                    |
 
 
 # Previous Projects
 
-| Prjoect           | Programming Languages & Technologies   |description                                       |
-| ----------------- |-------------|-------------|
-| ----------------- |-------------|-------------|
-| ----------------- |-------------|-------------|
-| ----------------- |-------------|-------------|
-
+| Prjoect               | description | 
+|-----------------------|----------------------------------------------|
+| [HandTrainSystem]()   |-------------|
+| [MyTrainningSystem]() |-------------|
+| [3Wish]()             |-------------|
+| [3Wish-Server]()      |-------------|
+| [AgriFoodv2]()        |-------------|
 
 
 <!--
