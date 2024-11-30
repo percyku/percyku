@@ -2,7 +2,7 @@
 
 # Side Projects
 
-| Prjoect(GitHub Repository Link)                                                                   | Description                                                                               |
+| Prjoect(Repository Link)                                                                   | Description                                                                               |
 |---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | [learning-server-springboot](https://github.com/percyku/learning-server-springboot)               | Using Spring Boot 3 ,Spring Security ,Hibernate ,MySQL ,JUnit5 <br/>to make RESTful API   |
 | [learning-server-springboot-oauth2](https://github.com/percyku/learning-server-springboot-oauth2) | Using Spring Boot 3 ,Spring Security ,Hibernate ,MySQL ,OAuth2.0 <br/>to make RESTful API |
@@ -12,7 +12,7 @@
 
 # Previous Projects(during my study in graduate school)
 
-| Prjoect(GitHub Repository Link)                                   | Description                                                  | Applied                                                                                                                                                             | 
+| Prjoect(Repository Link)                                   | Description                                                  | Applied                                                                                                                                                             | 
 |-------------------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [HandTrainSystem](https://github.com/percyku/HandTrainSystem2)    | Using Android Studio(Java)<br/>to make Android App           | [結合個人化健康傳播之遊戲式上肢訓練系統實作](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22105NTPT0787030%22.&searchmode=basic)<br/>master's thesis|
 | [MyTrainningSystem](https://github.com/percyku/MyTrainningSystem) | Using Arduino IDE(C++) & Sensors<br/>to make Wearable device | [結合個人化健康傳播之遊戲式上肢訓練系統實作](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22105NTPT0787030%22.&searchmode=basic)<br/>master's thesis|
